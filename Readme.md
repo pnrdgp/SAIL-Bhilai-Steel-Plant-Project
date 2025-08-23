@@ -83,19 +83,6 @@ Based on the analysis, the following strategic recommendations were formulated:
 3. **Maintain High Top Pressure:** Operate at a consistently high top pressure to improve gas residence time and maximize CO utilization efficiency.  
 4. **Use RAFT as a Stability Constraint:** Treat the flame temperature (RAFT) as a stability parameter to be kept within an optimal window, not a target to be maximized, to ensure equipment longevity.
 
-## **8\. How to Use This Repository**
-
-The core analysis and model development are contained within the Jupyter Notebook or Python script (finalexp.py).
-
-1. **Clone the repository:**  
-   git clone https://github.com/your-username/blast-furnace-optimization.git
-
-2. **Install dependencies:**  
-   pip install pandas numpy scikit-learn plotly matplotlib seaborn joblib
-
-3. Run the analysis:  
-   Open and run the Jupyter Notebook to see the full data processing, model training, and visualization workflow. The cleaned dataset (cleaned\_blast\_furnace\_data.csv) and the trained model (fuel\_rate\_rf\_model.pkl) are also available.
-
 ## **9\. Acknowledgements**
 
 Sincere gratitude to **Shri. H.K. Verma (General Manager)** and **Shri. Satyabrata Sutar (Assistant General Manager)** at SAIL, Bhilai Steel Plant for their invaluable guidance, support, and insights throughout this project.
