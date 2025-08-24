@@ -1,7 +1,6 @@
 # **Data-Driven Analysis and Optimization of Blast Furnace Fuel Rate**
 
 Project By: Piyush Narayan Rai | National Institute of Technology Durgapur  
-In collaboration with: SAIL, Bhilai Steel Plant
 
 ## **1\. Abstract**
 
