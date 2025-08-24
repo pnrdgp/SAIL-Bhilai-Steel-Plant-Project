@@ -49,8 +49,11 @@ A model was developed to predict the fuel rate based on key input parameters. Th
 Model | Description-
 
 **Linear Regression | Baseline linear model |
+
 Decision Tree     | Non-linear decision rules |
+
 Random Forest     | Ensemble of trees (Best Model) |
+
 Gradient Boosting | Boosted ensemble of trees |**
 
 The **Random Forest Regressor** was selected as the best model, achieving the highest R² score (≈0.41) and demonstrating its ability to capture the complex, non-linear relationships in the data.
